@@ -1,7 +1,7 @@
 # Back up configuration files to github daily
 
 ## Usage:
-1. Put config_backup.sh to $HOME/config_backup.sh
+1. Put [config_backup.sh](https://github.com/Phinnik/daily_config_backup/blob/master/config_backup.sh) to $HOME/config_backup.sh
 2. Configure the script:
     - Fill in url to your github repo
     - Provide paths and glob patterns for backup
