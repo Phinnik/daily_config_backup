@@ -16,13 +16,9 @@
 4. Remove temp directory
 5. Create cron task to backup daily
 
-
-Если происходят ошибки, вы увидите: всплывет сообщение.
 ## PRO TIPS
 - Do not back up full "$HOME/.config" directory. Some applications use it for cache :clown:
 - Star this repo, write issues, make contributions
-
-
 
 ## Test:
 1. Configure script with your test repository
